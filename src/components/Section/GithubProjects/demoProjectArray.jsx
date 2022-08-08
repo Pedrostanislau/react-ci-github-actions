@@ -1,27 +1,18 @@
-import img1 from "../../../assets/githubRepo/Img1.jfif";
-import img2 from "../../../assets/githubRepo/Img2.png";
+import img1 from "../../../assets/githubRepo/Img10.jpg";
+import img2 from "../../../assets/githubRepo/Img20.png";
 import img3 from "../../../assets/githubRepo/Img3.jpg";
 import img4 from "../../../assets/githubRepo/Img4.jfif";
 import img5 from "../../../assets/githubRepo/Img5.jfif";
 import img6 from "../../../assets/githubRepo/Img6.jfif";
 
-/*
-Image Source:
-    Img1: https://pin.it/4cuXKYP || https://in.pinterest.com/the_xz/
-    Img2: https://pin.it/4thAhOe || https://www.reddit.com/r/Cyberpunk/comments/c6nqbw/cyborg_girl_by_danny_kim/
-    Img3: Link Deleted
-    Img4: https://pin.it/7k0e79e || https://in.pinterest.com/wattpad/
-    Img5: https://in.pinterest.com/wattpad/
-    Img6: https://in.pinterest.com/wattpad/ || 
-*/
 
 export const data = [
   {
     id: 1,
     image: img1,
-    title: "v4",
-    github: "https://github.com/losier/v4",
-    demo: "http://aarabnishchal.herokuapp.com/",
+    title: "ROT Decoder",
+    github: "https://github.com/pstanislau/caesarDecipher",
+    demo: "",
   },
   {
     id: 2,

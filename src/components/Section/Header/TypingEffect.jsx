@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-const words = ["Aarab", "Nishchal", "Aarab Nishchal."];
+const words = ["Pedro", "Stanislau", "Pedro Stanislau"];
 
 const TypingEffect = () => {
   const [index, setIndex] = useState(0);

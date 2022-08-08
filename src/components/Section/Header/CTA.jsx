@@ -4,8 +4,8 @@ const CTA = () => {
   return (
     <div className="cta">
       <a
-        href={() => false}
-        onClick={() => alert("Coming Soon...")}
+        href={() => true}
+        onClick={() =>  window.location.href='https://drive.google.com/file/d/12ojgsP2BT2gZXDS6Cp3RgySLkPGsRfvn/view'}
         className="btn"
       >
         Download CV

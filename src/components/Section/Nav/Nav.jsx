@@ -38,7 +38,7 @@ const Nav = ({ inView }) => {
       }}
     >
       <div className="nav-text">
-        <h1>Aarab.</h1>
+        <h1>Stanis.</h1>
       </div>
 
       <ul className="nav-links">
@@ -101,7 +101,7 @@ const Nav = ({ inView }) => {
           <span>
             <a
               href={() => false}
-              onClick={() => alert("Coming Soon...")}
+              onClick={() => window.location.href='https://drive.google.com/file/d/12ojgsP2BT2gZXDS6Cp3RgySLkPGsRfvn/view'}
               className="nav_btn"
             >
               Resume

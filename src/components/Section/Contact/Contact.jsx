@@ -55,8 +55,8 @@ const Contact = () => {
           <article className="contact_option">
             <HiOutlineMail className="contact_icons" />
             <h4>Email</h4>
-            <h5>nishu@duck.com</h5>
-            <a href={"mailto:nishu@duck.com"} target="_blank" rel="noreferrer">
+            <h5>tomacheski18@gmail</h5>
+            <a href={"mailto:tomacheski18@gmail.com"} target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -64,8 +64,8 @@ const Contact = () => {
           <article className="contact_option">
             <FaTelegramPlane className="contact_icons" />
             <h4>Telegram</h4>
-            <h5>t.me/zzcwc</h5>
-            <a href={"https://t.me/zzcwc"} target="_blank" rel="noreferrer">
+            <h5>t.me/stanis</h5>
+            <a href={"https://t.me/+5551992193014"} target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -73,9 +73,9 @@ const Contact = () => {
           <article className="contact_option">
             <BsSnapchat className="contact_icons" />
             <h4>Snapchat</h4>
-            <h5>nishu.kr</h5>
+            <h5>acabou</h5>
             <a
-              href={"https://snapchat.com/add/nishu.kr"}
+              href={"https://youtu.be/WciF0b4OTgE"}
               target="_blank"
               rel="noreferrer"
             >
