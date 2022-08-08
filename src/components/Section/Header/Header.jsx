@@ -12,7 +12,7 @@ const Header = () => {
         <div className="header_text">
           <h3>Hi, my name is</h3>
           <TypingEffect />
-          <span>I build things that lives on Internet.</span>
+          <span>I build things that live on Internet.</span>
 
           <p></p>
           <CTA />
